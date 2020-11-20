@@ -67,3 +67,39 @@ a:hover {
 a:visited {
     color: black;
 }
+
+input[type=text] {
+    margin-top: -20px;
+    width: 550px;
+    height: 40px;
+    border-radius: 25px;
+    border: 1px solid lightgray;
+}
+
+#search {
+    margin-top: 36px;
+    margin-left: 558px;
+}
+
+.search {
+    width: 138px;
+    height: 35px;
+    border-width: 0px;
+    border-radius: 5px;
+    color: rgb(68, 68, 68);
+
+}
+
+#mag {
+    position: absolute;
+    width: 23px;
+    bottom: 445px;
+    left: 455px;
+}
+
+#mic {
+    width:23px;
+    position: absolute;
+    bottom: 443px;
+    left: 955px;
+}

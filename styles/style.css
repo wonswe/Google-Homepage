@@ -70,7 +70,7 @@ a:visited {
 
 input[type=text] {
     margin-top: -20px;
-    width: 550px;
+    width: 570px;
     height: 40px;
     border-radius: 25px;
     border: 1px solid lightgray;
@@ -82,7 +82,7 @@ input[type=text] {
 }
 
 .search {
-    width: 138px;
+    width: 140px;
     height: 35px;
     border-width: 0px;
     border-radius: 5px;
@@ -94,12 +94,12 @@ input[type=text] {
     position: absolute;
     width: 23px;
     bottom: 445px;
-    left: 455px;
+    left: 445px;
 }
 
 #mic {
     width:23px;
     position: absolute;
     bottom: 443px;
-    left: 955px;
+    left: 970px;
 }

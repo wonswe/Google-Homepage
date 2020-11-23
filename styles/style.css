@@ -54,7 +54,7 @@ img {
     height: 43px;
     border: 1px lightgray solid;
     border-radius: 30px;
-    background: url(/assets/mag.png) left 8px center no-repeat, url(/assets/mic.png) right 8px center no-repeat;
+    background: url(../assets/mag.png) left 8px center no-repeat, url(../assets/mic.png) right 8px center no-repeat;
     background-size: 23px;
 }
 

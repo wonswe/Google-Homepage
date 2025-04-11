@@ -1,2 +1,2 @@
-# TOP-google-homepage
+# Google Homepage
 LIVE: https://wonswe.github.io/google-homepage/
